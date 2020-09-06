@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.3 (11970) - http://www.bohemiancoding.com/sketch -->
+    <title>menu_tally_icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="32" height="32" rx="8"></rect>
+        <linearGradient x1="51.2654603%" y1="50%" x2="51.2654603%" y2="0%" id="linearGradient-3">
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#58C082" stop-opacity="0.341287364" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="50%" x2="50%" y2="100%" id="linearGradient-4">
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#58C082" stop-opacity="0.335116621" offset="100%"></stop>
+        </linearGradient>
+        <rect id="path-5" x="0" y="0" width="32" height="32"></rect>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="menu_tally_icon" sketch:type="MSArtboardGroup">
+            <mask id="mask-2" sketch:name="Mask" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="Mask" sketch:type="MSShapeGroup" xlink:href="#path-1"></use>
+            <g id="icon_base" sketch:type="MSLayerGroup" mask="url(#mask-2)">
+                <g id="bg">
+                    <use fill="#FFFFFF" fill-rule="evenodd" sketch:type="MSShapeGroup" xlink:href="#path-5"></use>
+                    <use fill="url(#linearGradient-3)" fill-rule="evenodd" xlink:href="#path-5"></use>
+                    <use fill="url(#linearGradient-4)" fill-rule="evenodd" xlink:href="#path-5"></use>
+                    <use fill="none" xlink:href="#path-5"></use>
+                </g>
+                <path d="M0,31.9377432 L15.9227674,32 L31.9817654,15.9667896 L32,0.0622568093 L16.1022611,0 L0.0182345973,16.0582389 L0,31.9377432 Z" id="Path" fill-opacity="0.6" fill="#FFFFFF" sketch:type="MSShapeGroup"></path>
+                <path d="M14.9017913,14.6517913 L8.34537632,14.6517913 C7.59457514,14.6517913 7,15.2554049 7,16 C7,16.7497863 7.60234549,17.3482087 8.34537632,17.3482087 L14.9017913,17.3482087 L14.9017913,23.9046237 C14.9017913,24.6554249 15.5054049,25.25 16.25,25.25 C16.9997863,25.25 17.5982087,24.6476545 17.5982087,23.9046237 L17.5982087,17.3482087 L24.1546237,17.3482087 C24.9054249,17.3482087 25.5,16.7445951 25.5,16 C25.5,15.2502137 24.8976545,14.6517913 24.1546237,14.6517913 L17.5982087,14.6517913 L17.5982087,8.09537632 C17.5982087,7.34457514 16.9945951,6.75 16.25,6.75 C15.5002137,6.75 14.9017913,7.35234549 14.9017913,8.09537632 L14.9017913,14.6517913 Z" id="Rectangle-43" fill="#58C082" sketch:type="MSShapeGroup"></path>
+            </g>
+        </g>
+    </g>
+</svg>
